@@ -96,6 +96,7 @@ public class Principal01 {
 
     //////////////////////////// INICIO MENU////////////////////////////
     public static void mostrarMenu() {
+        System.out.println("CAMBIO EN EL GITHUT");
         System.out.println("---------- MENÚ ----------");
         System.out.println("1.  Ingresar información de productos");
         System.out.println("2.  Ver productos");
